@@ -1,7 +1,7 @@
 <h1 align="center">Building AI that retrieves, not hallucinates.</h1>
 
 <p align="center">
-  RAG • Vectors • LLMs | Day 5/30 🔥
+  Full RAG: PDF → Chroma → llama3.2 • Answers from my data, not hallucination | Day 7/30 🔥
 </p>
 
 <p align="center">
