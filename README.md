@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 Track 2: 30-Day AI Engineer Challenge
-> Progress: **20% → 100%** | Streak: **5 days**
+> Progress: **26% → 100%** | Streak: **7 days**
 
 - [x] Day 1-4: Foundations, Embeddings & Similarity (0.623 similarity search working)
 - [x] Day 5: Local RAG with fake docs
