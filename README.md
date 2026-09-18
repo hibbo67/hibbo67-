@@ -1,7 +1,7 @@
 <h1 align="center">Building AI that retrieves, not hallucinates.</h1>
 
 <p align="center">
-  Full RAG: PDF → Chroma → llama3.2 • Answers from my data, not hallucination | Day 7/30 🔥
+Day 8: Full book 1997 chunks RAG k=5 deep answers ✅🔥
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 Track 2: 30-Day AI Engineer Challenge
-> Progress: **26% → 100%** | Streak: **7 days**
+> Progress: **30% → 100%** | Streak: **7 days**
 
 - [x] Day 1-4: Foundations, Embeddings & Similarity (0.623 similarity search working)
 - [x] Day 5: Local RAG with fake docs
