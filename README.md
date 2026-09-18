@@ -1,8 +1,7 @@
 <h1 align="center">Building AI that retrieves, not hallucinates.</h1>
 
 <p align="center">
-Day 8: Full book 1997 chunks RAG k=5 deep answers ✅🔥
-</p>
+Day 9: Streamlit RAG UI 1997 chunks + BPE deep answer with citations ✅ 35%
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Engineer+in+Training;Python+%7C+ChromaDB+%7C+LangChain;Daily+Build+%3A+LEARN+%2B+BUILD+%2B+PUSH" alt="Typing SVG" />
@@ -11,7 +10,7 @@ Day 8: Full book 1997 chunks RAG k=5 deep answers ✅🔥
 ---
 
 ### 🚀 Track 2: 30-Day AI Engineer Challenge
-> Progress: **30% → 100%** | Streak: **7 days**
+> Progress: **35% → 100%** | Streak: **7 days**
 
 - [x] Day 1-4: Foundations, Embeddings & Similarity (0.623 similarity search working)
 - [x] Day 5: Local RAG with fake docs
