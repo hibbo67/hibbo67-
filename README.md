@@ -1,7 +1,10 @@
 <h1 align="center">Building AI that retrieves, not hallucinates.</h1>
 
 <p align="center">
-Day 9: Streamlit RAG UI 1997 chunks + BPE deep answer with citations ✅ 35%
+Day 10: RAG v2 k=7 temp0 anti-hallucination fix ✅ 40% | 1997 chunks | ✅ No mix eval
+Progress: 40% → 100% | Streak: 10 days
+Stack: Python | ChromaDB | LangChain | Ollama | Streamlit
+Tagline: Building AI that retrieves, not hallucinates.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Engineer+in+Training;Python+%7C+ChromaDB+%7C+LangChain;Daily+Build+%3A+LEARN+%2B+BUILD+%2B+PUSH" alt="Typing SVG" />
@@ -10,7 +13,7 @@ Day 9: Streamlit RAG UI 1997 chunks + BPE deep answer with citations ✅ 35%
 ---
 
 ### 🚀 Track 2: 30-Day AI Engineer Challenge
-> Progress: **35% → 100%** | Streak: **7 days**
+> Progress: **40% → 100%** | Streak: **10 days**
 
 - [x] Day 1-4: Foundations, Embeddings & Similarity (0.623 similarity search working)
 - [x] Day 5: Local RAG with fake docs
