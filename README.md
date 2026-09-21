@@ -1,7 +1,7 @@
 <h1 align="center">Building AI that retrieves, not hallucinates.</h1>
 
 <p align="center">
-"Day 11: Agentic RAG v3.1 fixed rewrite + reranker 90MB clean BPE ✅ 45%"
+"Day 12: Flash Attention tiling clean + 1997 chunks Agentic RAG verified ✅ 50% HALFWAY"
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Engineer+in+Training;Python+%7C+ChromaDB+%7C+LangChain;Daily+Build+%3A+LEARN+%2B+BUILD+%2B+PUSH" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 Track 2: 30-Day AI Engineer Challenge
-> Progress: **45% → 100%** | Streak: **11 days**
+> Progress: **50% → 100%** | Streak: **12 days**
 
 - [x] Day 1-4: Foundations, Embeddings & Similarity (0.623 similarity search working)
 - [x] Day 5: Local RAG with fake docs
