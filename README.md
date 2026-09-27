@@ -1,7 +1,7 @@
 <h1 align="center">Building AI that retrieves, not hallucinates.</h1>
 
 <p align="center">
-"Day14 FINAL 60%: Groq streaming live - BPE 4 steps proof - 1997 chunks 12->5 - auto 11 models - bypass CPU quota""
+"Agentic RAG v3.1 - Day 15 75% PASS | RAGAS 1.00""
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Engineer+in+Training;Python+%7C+ChromaDB+%7C+LangChain;Daily+Build+%3A+LEARN+%2B+BUILD+%2B+PUSH" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 Track 2: 30-Day AI Engineer Challenge
-> Progress: **60% → 100%** | Streak: **14 days**
+> Progress: **75% → 100%** | Streak: **15 days**
 
 - [x] Day 1-4: Foundations, Embeddings & Similarity (0.623 similarity search working)
 - [x] Day 5: Local RAG with fake docs
